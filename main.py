@@ -6,7 +6,7 @@ import os
 import subprocess
 
 # ==== KONFIGURASI ====
-API_KEY = "adf8aa88db75f2b964de54b43cf82875ed02b009"
+API_KEY = "APIKEYAQICN"
 UIDS = {
     "Jakarta": "A521365",
     "Depok": "A511573",
@@ -17,8 +17,8 @@ UIDS = {
 SLEEP_PER_CITY = 2  # jeda antar kota (detik)
 GITHUB_REPO = "https://github.com/FajarKrisdiantoro/aqi_crawling.git"
 GITHUB_LOCAL_PATH = "/root/aqi_collector/aqi_crawling"
-TELEGRAM_BOT_TOKEN = "8489899571:AAFk0u6B7JWU2R2t5DQNdgtxnUk5SryY-qw"
-TELEGRAM_CHAT_ID = "1300916604"
+TELEGRAM_BOT_TOKEN = "BOTTELE"
+TELEGRAM_CHAT_ID = "TELECHATID"
 
 # Parameter kolom CSV
 FIELDNAMES = [
