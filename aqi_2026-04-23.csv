@@ -1,0 +1,6 @@
+city,station_name,time,aqi,pm25,pm10,pm1,no2,so2,co,o3,humidity,temperature,pressure,wind,rain
+Jakarta,The Pakubuwono Menteng,2026-04-22 23:57:36,106,106,42,79,,,,,60,28.5,,,
+Depok,Cinere - Nafas,2026-04-22 23:58:05,75,75,24,49,,,,,59,26.8,,,
+Bogor,Kabupaten Bogor Leuwiliang,2026-04-22 23:00:00,80,75,39,,4,9,0,80,,,,,
+Tangerang,Tangerang Pasir Jaya,2026-04-22 23:00:00,114,114,52,,58,63,0,64,,,,,
+Bekasi,Bekasi Kayuringin,2026-04-22 23:00:00,87,87,42,,81,16,0,23,,,,,
